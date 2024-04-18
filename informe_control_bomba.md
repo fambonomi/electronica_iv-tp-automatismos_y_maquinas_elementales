@@ -12,6 +12,12 @@ Electrónica IV - TP - Automatismos y Máquinas Elementales
 
 ## Resultados
 
+
+
+![](control_bomba.png)
+
+Figura 1. Esquemático del control de bomba
+
 > Aquí explicas los resultados obtenidos, puedes incluir una imagen del esquemático utilizando la forma `![](archivo_de_imagen.png)` donde `archivo_de_imagen.png` es el resultado de usar la función *Archivo->Exportar->Exportar PNG Grande* del simulador. Es recomendable ejecutar y detener la simulación una vez antes de realizar la exportación.
 
 ## Conclusiones
