@@ -12,7 +12,12 @@ Electrónica IV - TP - Automatismos y Máquinas Elementales
 
 ## Resultados
 
-
+| A | B | XOR |
+|---|---|---|
+| 0 | 0 | 0 |
+| 0 | 1 | 1 |
+| 1 | 0 | 1 |
+| 1 | 1 | 0 |
 
 ![](control_bomba.png)
 
